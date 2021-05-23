@@ -4,4 +4,3 @@ A futurist GUI with Qt Designer
 
 <img align="center" src="https://github.com/Cuadernin/GUIQT/blob/master/Interfaz.png" height="400" width="510"> 
 
-### By cuadernin
